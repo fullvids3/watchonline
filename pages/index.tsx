@@ -22,7 +22,32 @@ const Home: NextPage = () => {
           <code className={styles.code}>pages/index.tsx</code>
         </p>
 
-       
+    <div className={styles.grid}>
+          <a href="https://alcashzone.com/category/adsterra-earning/" className={styles.card}>
+            <h2>Documentation &rarr;</h2>
+            <p>Here you can find how to earn money from Adsterra .</p>
+          </a>
+
+          <a href="https://alcashzone.com/category/adsense-approval/" className={styles.card}>
+            <h2>Master In AdSense Approval &rarr;</h2>
+            <p>Here you can find the of how you become master in AdSense approval!</p>
+          </a>
+
+          <a
+            href="https://alcashzone.com/category/blogging/"
+            className={styles.card}
+          >
+            <h2>Blogging &rarr;</h2>
+            <p>Here you can find the source to become master in blogging</p>
+          </a>
+
+          <a
+            href="https://newstick.us"
+            className={styles.card}
+          >
+            <h2>News &rarr;</h2>
+            <p>
+              Here you can find showviz news and other national and internation news    
             </p>
           </a>
         </div>
